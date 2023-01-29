@@ -16,4 +16,4 @@
 ![image](https://user-images.githubusercontent.com/71540131/215304180-44d18aca-556f-4045-ba9d-2dc3a069e5de.png)
 
 
-連結: [點我前往測試](https://waittest.vercel.app/)
+連結: [點我前往試作品](https://waittest.vercel.app/)
